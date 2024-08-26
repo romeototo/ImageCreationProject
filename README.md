@@ -1,2 +1,2 @@
 # ImageCreationProject
-A project for generating images using Python
+This project is focused on generating images using Python and various libraries such as PIL, OpenCV, or others.
